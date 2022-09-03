@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "com.moon.api.mixin.mixins",
+  "refmap": "mixins.moon.refmap.json",
+  "verbose": true,
+  "mixins": [
+    "MixinMinecraft",
+    "access.ISPacketEntityVelocity",
+    "access.ISPacketExplosion",
+    "MixinNetworkManager",
+    "MixinBlock",
+    "MixinEntityLivingBase",
+    "MixinNetHandlerPlayClient",
+    "MixinRenderItem",
+    "MixinEntityRenderer"
+  ]
+}

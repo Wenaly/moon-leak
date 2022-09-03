@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "moon",
+    "name": "Moon",
+    "description": "",
+    "version": "1.0",
+    "mcversion": "1.12.2",
+    "logoFile": "",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["DriftyDev", "Primooctopus33","iJese"],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
